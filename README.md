@@ -4,3 +4,6 @@
 
 ## Activity 2 Screenshot
 ![second screenshot](/Screenshots/Second_Screenshot.png)
+
+## Activity 3 Screenshot
+![third screenshot](/Screenshots/Third_Screenshot.png)
