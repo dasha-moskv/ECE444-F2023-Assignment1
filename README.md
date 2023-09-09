@@ -10,3 +10,6 @@
 
 After clicking "Merge Pull Request"
 ![third screenshot pt2](/Screenshots/Third_Screenshot_pt2.png)
+
+## Activity 4 Screenshot
+![fourth screenshot](/Screenshots/Fourth_Screenshot.png)
